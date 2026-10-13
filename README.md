@@ -1,3 +1,3 @@
 # chidiyathakre-demo
-this is my first git Repository
-author- bulbul
+this is my first git Repository.
+Author- Bulbul
